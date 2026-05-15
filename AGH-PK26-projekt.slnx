@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AGH-PK26-projekt/AGH-PK26-projekt.vcxproj" Id="4ffcdeb1-edac-4351-bd23-034aa7b17b63" />
+</Solution>
